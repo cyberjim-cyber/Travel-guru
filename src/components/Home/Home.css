@@ -1,0 +1,46 @@
+.place-div{
+    width: 706px;
+    overflow: auto;
+    display: none;
+    scrollbar-width: none;
+}
+.place-div::-webkit-scrollbar {
+    display: none;
+}
+.place-card{
+    height: 300px;
+    width: 200px;
+ 
+  
+}
+.place-btn{
+    height: 470px;
+    width: 270px;
+    border-radius: 25px;
+    margin: 20px 10px;
+    background: inherit;
+    border: none;
+    position: relative;
+    text-align: center;
+  
+}
+.place-btn:focus{
+    outline: 0;
+    border: none;
+   
+}
+
+.carousel-caption{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+h4{
+    background-color:pink;padding:20px;border-radius: 20px;
+}
+.name-style{
+   
+ 
+    padding: 4px 20px;
+}

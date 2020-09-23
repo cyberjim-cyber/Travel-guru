@@ -1,0 +1,8 @@
+.navbar {
+    box-shadow: none !important;
+}
+
+
+.nav-item{
+    font-size:30px;color: aqua;background-color: aqua;margin-left: 15px;border-radius:10px;
+}

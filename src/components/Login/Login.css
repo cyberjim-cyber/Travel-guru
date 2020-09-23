@@ -1,0 +1,32 @@
+
+.login-form{
+  
+   background-color: pink;color: blue;border-radius:50px;padding: 100px 10px;
+}
+.button{
+    background-color: wheat;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    color: blue;font-size:25px;
+}
+.button:focus{
+    outline: 0;
+}
+.social-login{
+    
+    border-radius: 25px;
+}
+.center{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.login-text{
+    font-size:45px;color: aqua;margin-left: 100px;
+}

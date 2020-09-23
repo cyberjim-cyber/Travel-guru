@@ -1,0 +1,13 @@
+.border-style{
+    border: none;
+    outline: none;
+}
+.border-style:focus{
+    border: none;
+    outline: none;
+}
+.name-style{
+    background-color: cyan;
+    color: black;
+    padding: 4px 20px;
+}

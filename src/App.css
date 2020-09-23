@@ -1,5 +1,11 @@
+
+.Home{
+  background: linear-gradient(rgba(131, 60, 60, 0.611), rgba(128, 4, 4, 0.611)), url("./Images/coxsbazar.png");
+  background-size: cover;
+}
 .App {
-  text-align: center;
+  margin: 0px 0px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .App-logo {
@@ -24,15 +30,3 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
